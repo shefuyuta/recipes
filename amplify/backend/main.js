@@ -16,3 +16,14 @@ connection.connect((err)=>{
   }
   console.log("success");
 });
+
+document.querySelector();
+//当てはまる最初の要素が対象となる
+document.querySelectorAll().forEach(()=>{
+  //当てはまる全ての要素一つずつ取り出す
+});
+
+document.getElementById();
+document.querySellector().addEventListener("click", ()=>{
+  document.getElementById().textContent ="Changed!";
+});
