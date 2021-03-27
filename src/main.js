@@ -1,6 +1,7 @@
 const express = require("express");
 const mysql = require("mysql");
 const app = express();
+app.use(express.static("./"));
 
 app.get("/",(res, req) => {
   res.render("/homejpn.ejs");
