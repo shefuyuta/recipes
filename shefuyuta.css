@@ -319,7 +319,7 @@ body {
       margin: 0 1.666% 4% 1.666%;
 }
 }
-@media (min-width: 1400px) {
+@media (min-width: 1500px) {
   .recipemenu li {
         position: relative;
         width: 22%;
