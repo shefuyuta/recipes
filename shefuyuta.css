@@ -312,22 +312,14 @@ body {
   align-content: flex-start;
 }
 
-<<<<<<< HEAD
 
-=======
-@media (min-width: 0) and (max-width: 1399px) {
->>>>>>> ff343d27c572f8941673fd64f14eb256e133272b
 .recipemenu li {
       position: relative;
       width: 30%;
       margin: 0 1.666% 4% 1.666%;
 }
-<<<<<<< HEAD
 
-=======
-}
->>>>>>> ff343d27c572f8941673fd64f14eb256e133272b
-@media (min-width: 1500px) {
+@media (min-width: 1600px) {
   .recipemenu li {
         position: relative;
         width: 22%;
