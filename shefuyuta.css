@@ -405,7 +405,7 @@ body {
 }
 
 .ingredients {
-  margin: 0 15% 0 15%;
+  margin: 0 auto;
   width: 70%;
   min-width: 300px;
 }
