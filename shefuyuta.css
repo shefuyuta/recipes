@@ -410,6 +410,8 @@ body {
   min-width: 300px;
 }
 
+.ingredients ul {margin-left: 40px;}
+
 .recipecontent {
   margin: 0 10% 0 10%;
   width: 80%;
@@ -455,6 +457,7 @@ body {
   }
   .recipetitles{
     width: 1106.380px;
+    font-size: 42px;
     margin: 0 auto;
   }
   .recipecontent{
