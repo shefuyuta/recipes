@@ -396,6 +396,12 @@ body {
 .menuphotos img {
   width: 80%;
 }
+@media (min-width: 1400) {
+  .menuphotos img {
+    width: 885.11px;
+    
+}
+
 .recipetitles {
   text-align: center;
   font-size: 3vw;
