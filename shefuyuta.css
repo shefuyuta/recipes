@@ -387,19 +387,22 @@ body {
   color: rgb(100, 100, 100);
 }
 
+@media (min-width: 1400px) {
+  .recipedetail {
+    width: 1106.39px;
+    padding: 5% auto 5% auto;
+  }
+}
+
 .menuphotos {
   width: 100%;
   display: flex;
   justify-content: center;
   margin: 1% 0 1% 0;
 }
+
 .menuphotos img {
   width: 80%;
-}
-@media (min-width: 1400) {
-  .menuphotos img {
-    width: 885.11px;
-    
 }
 
 .recipetitles {
