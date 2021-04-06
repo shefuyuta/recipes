@@ -405,7 +405,7 @@ body {
 }
 @media (min-width: 1400px) {
 
-  .recipephotos {
+  .recipephotos img {
     width:885.09px;
     margin: 0 auto;
   }
