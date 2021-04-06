@@ -417,6 +417,7 @@ body {
     width: 885.09px;
     margin: 10% auto 10% auto;
   }
+  .lmkurideas {margin: }
 
 }
 
@@ -456,8 +457,9 @@ body {
 
 .lmkurideas{
   width: 100%;
-  padding: 10% 0 0 5%;
+  margin-top: 10%;
 }
+.lmkurideas a{text-align: center;}
 
 /*-----about-----*/
 .profilephoto {
