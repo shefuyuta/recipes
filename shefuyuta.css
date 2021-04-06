@@ -594,6 +594,7 @@ footer {background-color: rgb(160, 160, 160);}
   margin: 0 3% 0 3%;
 }
 .links a {color: rgb(160, 160, 160);}
+.links i {padding auto;}
 
 .ig {
   font-weight: 500;
