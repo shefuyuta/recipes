@@ -387,14 +387,6 @@ body {
   color: rgb(100, 100, 100);
 }
 
-@media (min-width: 1400px) {
-  .recipedetail {
-    width: 1106.39px;
-    padding: 5% auto 5% auto;
-    margin: 0;
-  }
-}
-
 .menuphotos {
   width: 100%;
   display: flex;
@@ -411,6 +403,23 @@ body {
   font-size: 3vw;
   font-family: "Cookie", "Noto Sans JP";
 }
+@media (min-width: 1400px) {
+
+  .recipephotos {
+    width:885.09px;
+    margin: 0 auto;
+  }
+  .recipetitles{
+    width: 1106.380px;
+    margin: 0 auto;
+  }
+  .recipecontent{
+    width: 885.09px;
+    margin: 10% auto 10% auto;
+  }
+
+}
+
 
 .ingredients {
   margin: 0 15% 0 15%;
