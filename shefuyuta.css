@@ -382,7 +382,7 @@ body {
   width: 80%;
   height: auto;
   min-height: 70%;
-  padding: 5% 10% 5% 10%;
+  padding: 5% 10% 3% 10%;
   font-family: "Noto Sans JP";
   color: rgb(100, 100, 100);
 }
@@ -449,7 +449,7 @@ body {
 }
 @media (min-width: 1400px) {
 
-  .recipephotos img {
+  .menuphotos img {
     width:885.09px;
     margin: 0 auto;
   }
