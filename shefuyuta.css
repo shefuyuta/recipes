@@ -549,13 +549,14 @@ body {
 .arrows i {
   align-items: center;
   width: 1.5vw;
-  margin: 0 5% 0 5%;
+  margin: 0 4% 0 4%;
   color: rgb(100, 100, 100);
 }
 
+@media (max-width: )
 
 @media (min-width: 1300px) {
-  .arrows i {width: 17.06px;}
+  .arrows {font-size: 17.06px;}
 }
 
 /*-----contact-----*/
