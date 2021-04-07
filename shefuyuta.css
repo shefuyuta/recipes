@@ -563,11 +563,9 @@ body {
   display: block;
   font-weight: bold;
 }
-.contact select {display: block;}
-.submit{margin: 0 0 3% 0}
 
-.thankyou {
-
+.arrows {
+  margin: 0 3% 0 3%;
 }
 
 /*-----footer-----*/
