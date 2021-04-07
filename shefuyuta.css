@@ -553,7 +553,7 @@ body {
   color: rgb(100, 100, 100);
 }
 
-@media (max-width: )
+@media (max-width: 1000px) {}
 
 @media (min-width: 1300px) {
   .arrows {font-size: 17.06px;}
