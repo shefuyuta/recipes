@@ -135,6 +135,19 @@ header {
   border-bottom-style: solid;
 }
 
+.submenu {
+  background-color: rgb(160, 160, 160);
+  text-decoration: none;
+  color: inherit;
+}
+
+.submenu li {
+  border-bottom-width: 2px;
+  border-bottom-color: white;
+  border-bottom-style: solid;
+}
+
+
 /*-----body-----*/
 body {
   margin: 0;
