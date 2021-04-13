@@ -1,5 +1,5 @@
 $(document).ready(function(){
-  $("#submenu").hover(function(){
+  $("#submenu").on("hover", function(){
      $(".submenu").slideToggle();
   });
 });
