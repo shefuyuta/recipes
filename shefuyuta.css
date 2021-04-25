@@ -139,6 +139,15 @@ header {
   background-color: rgb(160, 160, 160);
   text-decoration: none;
   color: inherit;
+  overflow: hidden;
+  position: absolute;
+  left: 0;
+  top: 2em;
+  width: 100%;
+  min-height: 0;
+  height: 0;
+  z-index: 3;
+  transition: min-height 0.5s;
 }
 
 .submenu li {
