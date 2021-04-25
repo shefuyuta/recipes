@@ -1,10 +1,10 @@
-$(document).ready(function(){
+/*$(document).ready(function(){
   $(".move").on("hover", function(){
      $(".submenu").slideToggle();
   });
-});
+});*/
 
-$(function(){
+/*$(function(){
   $(".move").mouseover(function(){
     subHeight = $(this).children(".sub").height();
     $(".sub").removeClass("active");
@@ -12,6 +12,6 @@ $(function(){
       $(this).children(".sub").addClass("active");
     }else{
       $(this).children(".sub").removeClass("active");
-    }
+    }*/
   });
 });
