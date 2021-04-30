@@ -12,6 +12,6 @@
       $(this).children(".sub").addClass("active");
     }else{
       $(this).children(".sub").removeClass("active");
-    }*/
+    }
   });
-});
+});*/
