@@ -1,6 +1,6 @@
 "use strict";
 
-{
+/*{
   var parent = document.querySelectorAll(".move");
 
   var node = Array.prototype.slice.call(parent, 0);
@@ -21,8 +21,4 @@
       false
     );
   });
-
-
-
-
-}
+}*/
